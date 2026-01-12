@@ -21,9 +21,9 @@ const Home = () => {
             {/* <OurServicesSection /> */}
 
             {/* add this  */}
-            {/* <FeaturedModelsSection />
+            <FeaturedModelsSection />
             <ServicesSection />
-            <ModelAboutSection /> */}
+            <ModelAboutSection />
             <MostSearchedLocations />
             <AboutAndReviewsSection />
           
